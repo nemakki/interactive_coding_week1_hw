@@ -1,6 +1,6 @@
 # interactive_coding_week1_hw
 
-Code for all five images are in one file, uncomment each section to see the code for the specific image.
+Code for all five images are in one file, uncomment each section to run the code for the specific image.
 
 <br /><br /><br /><br /><br /><br />
 
