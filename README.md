@@ -1,6 +1,8 @@
 # interactive_coding_week1_hw
 
-Code for all five images are in one file, uncomment each section to run the code for the specific image.
+Code for all five images are in one file in the all_in_one folder, uncomment each section to run the code for the specific image.
+
+Uploaded separated folders for each image too.
 
 <br /><br /><br /><br /><br /><br />
 
